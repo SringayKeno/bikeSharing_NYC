@@ -44,7 +44,7 @@ In NYC the Citbike program gives riders the opportunity to subscribe to the bike
 
 ### Trip Usage by Hour in August
 
-The below filled line chart shows usage by hour in August and once agian highlights the commute times as highest usage times. With the other insights we can see that the bikeshare programs success on weekdays will depend on male subscribers who use the bikeshare for commutesbikeshare programs success on weekdays will depend on male subscribers who use the bikeshare for commutes.
+The below filled line chart shows usage by hour in August and once agian highlights the commute times as highest usage times. With the other insights we can see that the bikeshare programs success on weekdays will depend on male subscribers who use the bikeshare for commutes on weekdays.
 
 <img width="526" alt="Screenshot (252)" src="https://user-images.githubusercontent.com/102890151/177025284-7152b9a8-91f7-4b8e-b8e7-7f589420285e.png">
 
@@ -62,7 +62,7 @@ The two visualizations below show starting and stopping points of rides. Some ar
 
 1- The majority of those who use the bikeshare are males subscribers. Des Moine success will depend greatly on the amount of frquent users who sign up for program.
 
-2- The bikeshare programs success on weekdays in Des Mones will depend on subscribers who use the bikeshare for commutes (both male and female, but prmarily male)
+2- The bikeshare programs success on weekdays in Des Mones will depend on subscribers who use the bikeshare for commutes (both male and female, but primarily male)
 
 3- Weekend usage needs to be researched further, but at this point it appears to be either tourist or weekend errand running. Weekend usage is steady in NYC and needs to be conted on in DEs Moines for success of a program there.
 
