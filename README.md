@@ -61,12 +61,17 @@ The two visualizations below show starting and stopping points of rides. Some ar
 ### Major conclusions
 
 1- The majority of those who use the bikeshare are males subscribers. Des Moine success will depend greatly on the amount of frquent users who sign up for program.
+
 2- The bikeshare programs success on weekdays in Des Mones will depend on subscribers who use the bikeshare for commutes (both male and female, but prmarily male)
+
 3- Weekend usage needs to be researched further, but at this point it appears to be either tourist or weekend errand running. Weekend usage is steady in NYC and needs to be conted on in DEs Moines for success of a program there.
-4- The downtown area of Des Moines will be key area for success of bike program in Des Moines. High density of people leads to success of program at least in the casre of NYC. In lower Manhatten which has highest desity of people per sqaure mile, sees the most usag of the bike program. In Brooklyn (36,732 people per suare mile) or Queens (20,847) where density is less then lower Manhatten, ridership geatly declines. The densisty of those areas is still much higher than in Des Moines. The downtown area of Des Moines will be key area for success of bike program in Des Moines.
+
+4- The downtown area of Des Moines will be key area for success of bike program in Des Moines. High density of people leads to success of program at least in the case of NYC. In lower Manhatten which has highest desity of people per sqaure mile, sees the most usag of the bike program. In Brooklyn (36,732 people per suare mile) or Queens (20,847) where density is less then lower Manhatten, ridership geatly declines. The densisty of those areas is still much higher than in Des Moines. The downtown area of Des Moines will be key area for success of bike program in Des Moines.
 
 ###  More Analysis
 
 1- A look at profitabilty of the NYC bikeshare program would be needed. Profit per ride? Which rides are most profitable? When is most profit made? Profit from subscribers vs less frequent customers
+
 2- Whose is using the bikes on weekends in NYC. Tourist? What percentage?
+
 3- Analysis of the key factors from above for Des Moines. Density of downtown? Tourist traffic? Weather compared to NYC?
