@@ -34,6 +34,10 @@ Steady usage on the weekends from 8am to 7pm may come from tourist andor riders 
 
 <img width="323" alt="Screenshot (242)" src="https://user-images.githubusercontent.com/102890151/177024615-38043342-79c0-4fc0-be01-144fadce7075.png">
 
+### Trips by Gender (Each Week Day Hour)
+
+In bikeshare in NYC, people are given the option to subscribe to the system. This visualization shows the breakdown of those who subscribed versus casual customer, and their gender. The majority of those who use the bikeshare are males subscribers. Success in Des Moines would depend heavily upon male subscribers who use the bikeshare often.
+
 <img width="753" alt="Screenshot (247)" src="https://user-images.githubusercontent.com/102890151/177024817-7873b2e6-c7b7-4e25-9e66-f66f42a3e83e.png">
 
 <img width="779" alt="Screenshot (249)" src="https://user-images.githubusercontent.com/102890151/177024973-c5353e13-3ac7-4334-a25f-b6a1a033db0d.png">
