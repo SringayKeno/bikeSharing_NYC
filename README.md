@@ -42,7 +42,15 @@ In NYC the Citbike program gives riders the opportunity to subscribe to the bike
 
 <img width="779" alt="Screenshot (249)" src="https://user-images.githubusercontent.com/102890151/177024973-c5353e13-3ac7-4334-a25f-b6a1a033db0d.png">
 
+### Trip Uage by Hour in Aug
+
+The below filled line chart shows usage by hour in August and once agian highlights the commute times as highest usage times. With the other insights we can see that the bikeshare programs success on weekdays will depend on male subscribers who use the bikeshare for commutes.
+
 <img width="526" alt="Screenshot (252)" src="https://user-images.githubusercontent.com/102890151/177025284-7152b9a8-91f7-4b8e-b8e7-7f589420285e.png">
+
+### Starting and Stopping Points
+
+THe two  visualizations below sho starting and stopping points of rides. Manhatten 
 
 <img width="628" alt="Screenshot (261)" src="https://user-images.githubusercontent.com/102890151/177028018-536e6dbc-56bb-4900-a394-47c9c7eb1dcc.png">
 
