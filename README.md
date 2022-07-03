@@ -42,7 +42,7 @@ In NYC the Citbike program gives riders the opportunity to subscribe to the bike
 
 <img width="779" alt="Screenshot (249)" src="https://user-images.githubusercontent.com/102890151/177024973-c5353e13-3ac7-4334-a25f-b6a1a033db0d.png">
 
-### Trip Uage by Hour in Aug
+### Trip Usage by Hour in Aug
 
 The below filled line chart shows usage by hour in August and once agian highlights the commute times as highest usage times. With the other insights we can see that the bikeshare programs success on weekdays will depend on male subscribers who use the bikeshare for commutes.
 
@@ -50,15 +50,13 @@ The below filled line chart shows usage by hour in August and once agian highlig
 
 ### Starting and Stopping Points
 
-THe two  visualizations below sho starting and stopping points of rides. Manhatten 
+The two visualizations below show starting and stopping points of rides. Some areas along the river in Brookklyn also have higher concentrations of bikeshare usage then the rest of the city. It's worth noting that even in Manhatten with a high concentration of people per square mile most of Manhatten's use of the bikeshare comes from lower Manhatten where people pr square mile is highest and where most visitors would frequent. For reference Des Moines has 2,428.4 people per square mile vs NYC's density at 29,303.2 which is a significant difference.  
 
 <img width="628" alt="Screenshot (261)" src="https://user-images.githubusercontent.com/102890151/177028018-536e6dbc-56bb-4900-a394-47c9c7eb1dcc.png">
 
 <img width="643" alt="Screenshot (263)" src="https://user-images.githubusercontent.com/102890151/177028080-e019873a-e319-4d0b-b34b-70704fb6338e.png">
 
 
-
-
-
-
 ## Summary
+
+### 
