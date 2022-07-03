@@ -12,4 +12,5 @@
 
 <img width="779" alt="Screenshot (249)" src="https://user-images.githubusercontent.com/102890151/177024973-c5353e13-3ac7-4334-a25f-b6a1a033db0d.png">
 
-![Screenshot (252)](https://user-images.githubusercontent.com/102890151/177025256-15929251-a829-4be2-aee2-dc729ef05024.png)
+<img width="526" alt="Screenshot (252)" src="https://user-images.githubusercontent.com/102890151/177025284-7152b9a8-91f7-4b8e-b8e7-7f589420285e.png">
+
