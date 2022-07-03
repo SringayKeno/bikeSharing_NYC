@@ -4,6 +4,8 @@
 
 ## Overview of Analysis 
 
+Last summer, my friend Kate and I took the vacation of a lifetime. We spent 2 full weeks in New York City exploring historical landmarks like Central Park, the Empire State Building, and the Statue of Liberty. It was a magical experience. As we flew home we looking through photos and realized a key ingredient to the magic was an unlikely suspect, Citibike. Kate and I biked everywhere which allowed us to get to really know New York City and interact with others as they commuted on rideshare bikes A gem of an idea stated to form in our minds. What if we could start a similar bikeshare in Des Moines Iowa, our hometown? Kate and I start brainstorming, and a to of weeks later, Kate calls telling me she may have a potential an
+
 ## Results of Analysis
 
 <img width="623" alt="Screenshot (253)" src="https://user-images.githubusercontent.com/102890151/177025590-955eb673-1f7d-4f0d-b614-4172365053dc.png">
