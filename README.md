@@ -16,9 +16,9 @@ The first graph (Checkout Time for Users) is a linear depiction of trip duration
 
 <img width="623" alt="Screenshot (253)" src="https://user-images.githubusercontent.com/102890151/177025590-955eb673-1f7d-4f0d-b614-4172365053dc.png">
 
-###
+### Trip Dration by Gender
 
-A second graph and a further look at trip duration by gender of riders. The vast majority (just under 110k) of riders are male compared to approximately 30k female users.
+A second graph (Trip Duration by Gender) further looks at trip duration by gender of riders. The vast majority (just under 110k) of riders are male compared to approximately 30k female users. Thre were just under 10k riders listed as gender not identified. NYC in 2020 has 5.3% females and Des Moines in that same year posted 50.9%. 
 
 <img width="654" alt="Screenshot (258)" src="https://user-images.githubusercontent.com/102890151/177025754-0dd0e606-a350-4230-8bec-fa50fdddf2a3.png">
 
