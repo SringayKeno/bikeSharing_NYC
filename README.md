@@ -4,8 +4,8 @@
 
 <img width="723" alt="Screenshot (253)" src="https://user-images.githubusercontent.com/102890151/177025590-955eb673-1f7d-4f0d-b614-4172365053dc.png">
 
+<img width="754" alt="Screenshot (258)" src="https://user-images.githubusercontent.com/102890151/177025754-0dd0e606-a350-4230-8bec-fa50fdddf2a3.png">
 
-<img width="582" alt="Screenshot (240)" src="https://user-images.githubusercontent.com/102890151/177024269-97887006-829e-420e-9bf3-9cf276e29242.png">
 
 <img width="323" alt="Screenshot (242)" src="https://user-images.githubusercontent.com/102890151/177024615-38043342-79c0-4fc0-be01-144fadce7075.png">
 
