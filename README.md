@@ -19,10 +19,10 @@
 
 <img width="526" alt="Screenshot (252)" src="https://user-images.githubusercontent.com/102890151/177025284-7152b9a8-91f7-4b8e-b8e7-7f589420285e.png">
 
-<img width="728" alt="Screenshot (261)" src="https://user-images.githubusercontent.com/102890151/177028018-536e6dbc-56bb-4900-a394-47c9c7eb1dcc.png">
+<img width="628" alt="Screenshot (261)" src="https://user-images.githubusercontent.com/102890151/177028018-536e6dbc-56bb-4900-a394-47c9c7eb1dcc.png">
 
+<img width="643" alt="Screenshot (263)" src="https://user-images.githubusercontent.com/102890151/177028080-e019873a-e319-4d0b-b34b-70704fb6338e.png">
 
-<img width="743" alt="Screenshot (263)" src="https://user-images.githubusercontent.com/102890151/177027947-fe11bf9f-8b58-482e-a3ed-a660210cd0e6.png">
 
 
 
