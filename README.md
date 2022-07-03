@@ -16,12 +16,21 @@ The first graph (Checkout Time for Users) is a linear depiction of trip duration
 
 <img width="623" alt="Screenshot (253)" src="https://user-images.githubusercontent.com/102890151/177025590-955eb673-1f7d-4f0d-b614-4172365053dc.png">
 
-### Trip Dration by Gender
+### Trip Duration by Gender
 
 A second graph (Trip Duration by Gender) further looks at trip duration by gender of riders. The vast majority (just under 110k) of riders are male compared to approximately 30k female users. Thre were just under 10k riders listed as gender not identified. NYC in 2020 has 5.3% females and Des Moines in that same year posted 50.9%. 
 
 <img width="654" alt="Screenshot (258)" src="https://user-images.githubusercontent.com/102890151/177025754-0dd0e606-a350-4230-8bec-fa50fdddf2a3.png">
 
+### Trips by Weekday Each Hour
+
+The next visualiation is a heatmap of trips by weekday for each hour (seen below). Monday through Friday shows that most usage of the bikeshare system was around 08:00AM and then again between 05:00PM to 06:00PM. This suggests that most users during the work week are using the bikeshare as transportation to their place of employment. On weekends the use was more steady with most use between 8am and 7pm on Saturdays and Sundays. 
+
+#### Weekdays
+From the above analysis, We can understand that much of the weekday bike usage arrives from commuters both going and coming home from work. With this knowledge we can get idea of what a bikeshare program would look like in Des Moines based on how many users we can expect to use the bikeshare for commuting in Des Moines. 
+
+#### Weekends
+Steady usage on the weekends from 8am to 7pm may come from tourist andor riders riding errands on weekends. A further look at usership on the weekends specifically; subscribers vs non subscribers and stopping and starting points could give us further insight to the whose using the bikes on weekends. Is it fueled by tourist or locales running errands, or going to weekend work?
 
 <img width="323" alt="Screenshot (242)" src="https://user-images.githubusercontent.com/102890151/177024615-38043342-79c0-4fc0-be01-144fadce7075.png">
 
