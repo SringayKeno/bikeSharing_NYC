@@ -36,7 +36,7 @@ Steady usage on the weekends from 8am to 7pm may come from tourist andor riders 
 
 ### Trips by Gender (Each Week Day Hour)
 
-In bikeshare in NYC, people are given the option to subscribe to the system. This visualization shows the breakdown of those who subscribed versus casual customer, and their gender. The majority of those who use the bikeshare are males subscribers. Success in Des Moines would depend heavily upon male subscribers who use the bikeshare often.
+In NYC the Citbike program gives riders the opportunity to subscribe to the bikeshare program. The next two heatmap visualizations (Trips by Gender by Hour and Trips by Gender Weekday) show the breakdown of those who subscribed versus casual customer, the day of the week, and their gender. The majority of those who use the bikeshare are males subscribers. Success in Des Moines would depend heavily upon male subscribers who use the bikeshare often.
 
 <img width="753" alt="Screenshot (247)" src="https://user-images.githubusercontent.com/102890151/177024817-7873b2e6-c7b7-4e25-9e66-f66f42a3e83e.png">
 
