@@ -4,10 +4,15 @@
 
 ## Overview of Analysis 
 
-Last summer, my friend Kate and I took the vacation of a lifetime. We spent 2 full weeks in New York City exploring historical landmarks like Central Park, the Empire State Building, and the Statue of Liberty. It was a magical experience. As we flew home we looking through photos and realized a key ingredient to the magic was an unlikely suspect, Citibike. Kate and I biked everywhere which allowed us to get to really know New York City and interact with others as they commuted on rideshare bikes A gem of an idea stated to form in our minds. What if we could start a similar bikeshare in Des Moines Iowa, our hometown? Kate and I start brainstorming, and a to of weeks later, Kate calls telling me she may have a potential angel investor. The potential investoris interested in providing seed money to explore a bikesharing program in Des Moines. Thi sis an exciting prospect, but I know we have to think realistictly. The mechanics of making this business work might be quite different in NYC than Des Moines. I decided the first step is to look at how the bikeshare busines actually works in NYC. Then I will create a proposal for how it might work in D Des Moines.
+Last summer, my friend Kate and I took the vacation of a lifetime. We spent 2 full weeks in New York City exploring historical landmarks like Central Park, the Empire State Building, and the Statue of Liberty. It was a magical experience. As we flew home we looking through photos and realized a key ingredient to the magic was an unlikely suspect, Citibike. Kate and I biked everywhere which allowed us to get to really know New York City and interact with others as they commuted on rideshare bikes A gem of an idea stated to form in our minds. What if we could start a similar bikeshare in Des Moines Iowa, our hometown? Kate and I start brainstorming, and a to of weeks later, Kate calls telling me she may have a potential angel investor. The potential investoris interested in providing seed money to explore a bikesharing program in Des Moines. Thi sis an exciting prospect, but I know we have to think realistictly. The mechanics of making this business work might be quite different in NYC than Des Moines. I decided the first step is to look at how the bikeshare busines actually works in NYC. Then I will create a proposal for how it might work in Des Moines.
 
 ## Results of Analysis
 
+### Trip Duration in August
+
+The first graph (graph1, below) is a linear depiction of trip duration during the month of August. The top of the graph lists the hours and the bottom breaks down each hour into minutes. From the depiction we see that most rides are about 10 minutes in length and the most rides in NYC seem are under 30 minute. This may suggest that the bikeshare in Des Moines would be successful if the radius of the bikeshare territory would be within a 30-minute bike route.
+
+graph1
 <img width="623" alt="Screenshot (253)" src="https://user-images.githubusercontent.com/102890151/177025590-955eb673-1f7d-4f0d-b614-4172365053dc.png">
 
 <img width="654" alt="Screenshot (258)" src="https://user-images.githubusercontent.com/102890151/177025754-0dd0e606-a350-4230-8bec-fa50fdddf2a3.png">
